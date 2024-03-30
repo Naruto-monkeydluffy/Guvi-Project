@@ -1,0 +1,9 @@
+# ignore node modules directory
+node_modules/
+
+# ignore build output
+build/
+
+# ignore docker build context files 
+.dockerignore
+
